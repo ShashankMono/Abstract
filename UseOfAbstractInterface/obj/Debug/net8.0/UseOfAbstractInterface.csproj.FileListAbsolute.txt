@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\bin\Debug\net8.0\UseOfAbstractInterface.exe
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\bin\Debug\net8.0\UseOfAbstractInterface.deps.json
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\bin\Debug\net8.0\UseOfAbstractInterface.runtimeconfig.json
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\bin\Debug\net8.0\UseOfAbstractInterface.dll
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\bin\Debug\net8.0\UseOfAbstractInterface.pdb
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.dll
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\refint\UseOfAbstractInterface.dll
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.pdb
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\UseOfAbstractInterface.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\AbstractVsInterface\UseOfAbstractInterface\obj\Debug\net8.0\ref\UseOfAbstractInterface.dll
